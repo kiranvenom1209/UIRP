@@ -1,7 +1,7 @@
 # UIRP - Universal Intelligent ROS Platform
 
 > **Owner**: [kiranvenom1209](https://github.com/kiranvenom1209)  
-> **Location**: Eichenzell, Hesse, Germany  
+> **Location**: Schmalkalden, Thuringia, Germany  
 > **Project Type**: Smart ROS Platform Thesis  
 
 ---
