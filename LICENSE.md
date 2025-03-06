@@ -88,24 +88,3 @@ Kiran Karthikeyan Achari
 kiranvenom1209@gmail.com
 
 ---
-
-**Detailed Explanation and Important Notes:**
-
-*   **Dual License:** This license provides *two* separate licenses: one for non-commercial use (free, with attribution) and one for commercial use (requiring separate negotiation and payment). This is a common approach for projects that want to encourage open-source use but also monetize commercial applications.
-*   **Clear Definitions:**  The license carefully defines "Non-Commercial Purposes" and "Commercial Purposes" to avoid ambiguity.
-*   **Mandatory Separate Agreement:**  The license makes it *absolutely clear* that any commercial use requires a separate, written agreement with you, the Licensor. This is crucial for protecting your rights.  This separate agreement *overrides* the general commercial use terms in the main license *only for the specific commercial use covered by that agreement*.
-*   **Very Strict Attribution:**  The attribution requirements are very detailed and specific, leaving little room for misinterpretation.  They specify *what* to include, *where* to include it, and even recommend an attribution statement.
-*   **No Loopholes (Attempt):**  The license is structured to be as comprehensive as possible within the constraints of a relatively simple, custom license.  It addresses common loopholes by:
-    *   Explicitly requiring attribution for *both* non-commercial and commercial use.
-    *   Clearly defining commercial use.
-    *   Requiring a separate written agreement for *any* commercial use.
-    *   Making it clear that the separate agreement only overrides the payment terms, not the other license conditions (like attribution).
-    *   Including a termination clause.
-    *   Specifying governing law.
-    *   Including an "entire agreement" clause.
-    *   Including a severability clause.
-*   **Reverse Engineering**: I have permitted the reverse engineering for better use and development.
-*   **Placeholders:**  Remember to replace `[Your Repository URL]` and `[Your Country/State]` with your actual information.
-*   **Disclaimer (Not Legal Advice):**  This is *still not legal advice*. While this license is significantly more robust and tailored to your specific needs, it is *essential* to understand that I am an AI and cannot provide legal advice.  **For any commercial use, or if you have any doubts about the legal enforceability of this license, you *must* consult with a qualified attorney.** They can review the license, advise you on its implications, and ensure it complies with the laws of your jurisdiction.  A lawyer can also help you draft the separate commercial use agreements.
-
-This improved license provides much stronger protection for your intellectual property while still allowing non-commercial use.  The key is the requirement for a separate, negotiated agreement for *any* commercial use, giving you complete control over the terms of commercialization. However, always consult with a lawyer for definitive legal advice.
