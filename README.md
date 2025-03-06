@@ -236,12 +236,12 @@ Contributions are welcome! To maintain a consistent workflow:
 
 -   **ROS Community:** For providing a robust and open-source robotics framework.
 -   **Open-Source Contributors:** Various libraries and packages (TensorFlow, PyTorch, navigation, robot\_localization, etc.).
--   **Academic Mentors & Advisors:** Special thanks for guidance on the thesis and research methodologies.
+-   **Academic Mentors & Advisors:** Special thanks Prof. Dr.-Ing. Frank Schrödel for guidance on the thesis and research methodologies.
 
 ---
 
 ## Contact / Support
 
--   **GitHub Issues:** [UIRP Issues](https://github.com/kiranvenom1209/UIRP/issues)  *Replace with your actual repository URL*
+-   **GitHub Issues:** [UIRP Issues](https://github.com/kiranvenom1209/UIRP/issues) 
 -   **Email:** kiranvenom1209@gmail.com
--   **Discussion Forum:**  If you set up a dedicated forum or Slack/Discord channel, include the link here.  Consider using GitHub Discussions.
+-   **Discussion Forum:**  
