@@ -61,7 +61,6 @@
 ---
 
 ## Project Structure
-
 UIRP/
 ├── docs/
 │   ├── thesis/
@@ -72,7 +71,7 @@ UIRP/
 │   ├── ai_module/
 │   ├── sensor_fusion/
 │   ├── navigation/
-│   └── ...
+│   └── ...  # Other ROS packages
 ├── scripts/
 │   └── utility_scripts/
 ├── config/
