@@ -61,6 +61,7 @@
 ---
 
 ## Project Structure
+<pre>
 UIRP/
 ├── docs/
 │   ├── thesis/
@@ -71,7 +72,7 @@ UIRP/
 │   ├── ai_module/
 │   ├── sensor_fusion/
 │   ├── navigation/
-│   └── ...  # Other ROS packages
+│   └── ...
 ├── scripts/
 │   └── utility_scripts/
 ├── config/
@@ -83,7 +84,7 @@ UIRP/
 ├── package.xml    # For ROS1 (Catkin)
 ├── colcon.pkg     # For ROS2 (Colcon) - if using ROS2
 └── README.md
-
+</pre>
 
 -   **docs/**: Contains documentation, including thesis drafts and architecture overviews.
 -   **src/**: Houses the main source code for ROS packages (e.g., AI module, sensor fusion, navigation).
